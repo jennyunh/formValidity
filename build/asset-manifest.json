@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/formValidity/static/css/main.33366c12.chunk.css",
+    "main.js": "/formValidity/static/js/main.a19d583c.chunk.js",
+    "main.js.map": "/formValidity/static/js/main.a19d583c.chunk.js.map",
+    "runtime-main.js": "/formValidity/static/js/runtime-main.1526874b.js",
+    "runtime-main.js.map": "/formValidity/static/js/runtime-main.1526874b.js.map",
+    "static/js/2.48964c4d.chunk.js": "/formValidity/static/js/2.48964c4d.chunk.js",
+    "static/js/2.48964c4d.chunk.js.map": "/formValidity/static/js/2.48964c4d.chunk.js.map",
+    "index.html": "/formValidity/index.html",
+    "static/css/main.33366c12.chunk.css.map": "/formValidity/static/css/main.33366c12.chunk.css.map",
+    "static/js/2.48964c4d.chunk.js.LICENSE.txt": "/formValidity/static/js/2.48964c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1526874b.js",
+    "static/js/2.48964c4d.chunk.js",
+    "static/css/main.33366c12.chunk.css",
+    "static/js/main.a19d583c.chunk.js"
+  ]
+}
